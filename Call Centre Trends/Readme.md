@@ -8,3 +8,7 @@ Create a dashboard in Power BI for Claire that reflects all relevant Key Perform
 - Calls by time
 - Average speed of answer
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+
+_Objective:_<br>
+- Visualising customer and agent behaviour.
+Keys: Defining KPIs Power BI Dashboard
